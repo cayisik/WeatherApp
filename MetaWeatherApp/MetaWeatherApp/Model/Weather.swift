@@ -11,6 +11,4 @@ struct Weather : Decodable{
     let title : String
     let woeid : Int
     
-    //Can
-    //Vural
 }
